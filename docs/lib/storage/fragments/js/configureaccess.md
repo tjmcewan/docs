@@ -88,4 +88,4 @@ If you want to have custom *private* path prefix like *myPrivatePrefix/*, you ne
     }
 ]
 ```
-This ensures only the authenticated users has the access to the objects under the path.
+This ensures only the authenticated users has the access to the objects under the path. 
